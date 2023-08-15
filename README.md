@@ -1,10 +1,9 @@
-#Web Developer
+# Web Developer
 
-###Education
+### Education
 Computer Science, Undergraduate
 
-###Work Experience
-
+### Work Experience
 Hopeworks Camden Non-Profit Web Development
 Intern— 808 Market St, Camden, NJ 08102
 August 2022 - Present
