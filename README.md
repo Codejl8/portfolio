@@ -14,14 +14,14 @@ Motivated professional interested in applying acquired skills within a challengi
 
 
 ## Skills
-###### - Communication 
-###### - Problem Solving  
-###### - Time Management 
-###### - Computer Proficiency
-###### - Leadership
-###### - Collaboration
-###### - Conflict Resolution
-###### - Creative Thinking
+- Communication 
+- Problem Solving  
+- Time Management 
+- Computer Proficiency
+- Leadership
+- Collaboration
+- Conflict Resolution
+- Creative Thinking
 
 
 
