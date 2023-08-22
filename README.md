@@ -1,13 +1,13 @@
 # Web Developer
 
 ## Projects
-###### Dappy Denim Eccomerse site
+ Dappy Denim Eccomerse site
 -
 
 ## Education
 #### Rowan University
 ######  - Computer Science, Undergraduate
-######  - anticipated 2025
+  - anticipated 2025
 
 ## Summary
 Motivated professional interested in applying acquired skills within a challenging environment. Regarded for work ethic, commitment, people skills, and ability to create genuine connections. 
