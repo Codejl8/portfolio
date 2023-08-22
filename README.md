@@ -5,7 +5,7 @@ Dappy Denim Eccomerse site
 -
 
 ## Education
-### Rowan University
+#### Rowan University
  - Computer Science, Undergraduate
  - anticipated 2025
 
@@ -27,7 +27,7 @@ Motivated professional interested in applying acquired skills within a challengi
 
 ## Work Experience
 
-### Hopeworks Camden Non-Profit 
+#### Hopeworks Camden Non-Profit 
 Web Development Intern— Camden, NJ
 August 2022 - Present
 - Complete training modules such as Photoshop, Front-End Development,
@@ -39,7 +39,7 @@ and workshops.
 - Create UX/UI design of websites in Figma.
 
 
-### Holcomb Bus Services
+#### Holcomb Bus Services
 Bus Aide— Bellmawr, NJ
 May 2022 - August 2022
  - Assist passengers, particularly students with disabilities, in boarding and exiting the bus safely.
@@ -50,7 +50,7 @@ May 2022 - August 2022
 
 
 
-### Rowan University RAH
+#### Rowan University RAH
 RAH Team Member— Glassboro, NJ
 August 2021 - November 2021
  - Coordinating with staff and volunteers to ensure that all events run according to schedule
