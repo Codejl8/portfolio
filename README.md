@@ -5,8 +5,8 @@
 -
 
 ## Education
-#### Rowan University
-######  - Computer Science, Undergraduate
+### Rowan University
+  - Computer Science, Undergraduate
   - anticipated 2025
 
 ## Summary
