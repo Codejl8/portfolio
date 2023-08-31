@@ -2,7 +2,9 @@
 
 ## Projects
  Dappy Denim Eccomerse site
--
+![DepperDenim](file:///C:/Users/Hopeworks/OneDrive/Desktop/resume/Home-%20Ozzy.pdf)
+![DepperDenim](file:///C:/Users/Hopeworks/OneDrive/Desktop/resume/Home-%20Ozzy.pdf)
+
 
 ## Education
 ### Rowan University
