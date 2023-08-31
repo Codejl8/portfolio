@@ -2,8 +2,8 @@
 
 ## Projects
  Dappy Denim Eccomerse site
-![DepperDenim](file:///C:/Users/Hopeworks/OneDrive/Desktop/resume/Home-%20Ozzy.pdf)
-![DepperDenim](file:///C:/Users/Hopeworks/OneDrive/Desktop/resume/Home-%20Ozzy.pdf)
+![DepperDenim](file:///C:/Users/Hopeworks/OneDrive/Desktop/resume/Home-%20Ozzy.jpg)
+![TheExquizitePalete](file:///C:/Users/Hopeworks/OneDrive/Desktop/resume/Ozzy Restaurant- Home.jpg)
 
 
 ## Education
