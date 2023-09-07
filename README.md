@@ -8,7 +8,7 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 <br/>
 ## Projects
 
-Bloom Studios 12 – https://bloomstudios12.com/ (In Production)
+Bloom Studios 12 – ![https://bloomstudios12.com/] (In Production)
  - I designed this website with figma.
  - A E Commerce and appointment scheduling website for a company that sells Web Design and Social Media Management services.
  - This Website is made (and maintained) with Wordpress, Elementor, CMP, OptinMonster, Events Calendar, Woocomerse, WPForms. 
