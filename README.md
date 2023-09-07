@@ -1,7 +1,16 @@
 # Web Developer
 
+
+
 ## Projects
- Dappy Denim Eccomerse site
+The Exquisite Palate - ![https://heuristic-shamir.104-192-6-167.plesk.page/index.php/ozzy-restauraunt/}
+ - Wordpress, Elementor, and Woocommerce are used to make this site.
+ - Made for full desktop and mobile capabilities, able to create and process orders for users, either for themselves or for catering.
+
+Dapper Denim - https://nice-visvesvaraya.104-192-6-167.plesk.page/
+Wordpress, Elementor, and Woocommerce used to make this site.
+Made for full desktop and mobile capabilities, able to create and process orders for premium clothing and accessories.
+
 
 
 ## Education
