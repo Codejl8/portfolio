@@ -54,6 +54,5 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 
 ## Education
 
-### Rowan University
-  - Computer Science, Undergraduate                                                               ##### Graduation Date June 2025
-     - 
+### Rowan University (Graduation Year: 2025)
+  - Proficient in Object Oriented Programming
