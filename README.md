@@ -1,69 +1,59 @@
 # Web Developer
 
+<br/>
+# Summary
 
+Motivated professional Full-Stack Developer interested in applying acquired skills within a challenging environment. Regarded for work ethic, commitment, people skills, and ability to create genuine connections. 
 
+<br/>
 ## Projects
+
+Bloom Studios 12 – https://bloomstudios12.com/ (In Production)
+ - I designed this website with figma.
+ - A E Commerce and appointment scheduling website for a company that sells Web Design and Social Media Management services.
+ - This Website is made (and maintained) with Wordpress, Elementor, CMP, OptinMonster, Events Calendar, Woocomerse, WPForms. 
+ - Also for both Desktop and Mobile Functionality.
+
 The Exquisite Palate - https://heuristic-shamir.104-192-6-167.plesk.page/index.php/ozzy-restauraunt/
  - Wordpress, Elementor, and Woocommerce are used to make this site.
  - Made for full desktop and mobile capabilities, able to create and process orders for users, either for themselves or for catering.
+ - A collaborative site that I developed and a coworker designed.
+
 
 Dapper Denim - https://nice-visvesvaraya.104-192-6-167.plesk.page/
  - Wordpress, Elementor, and Woocommerce used to make this site.
+ - A collaborative site that I developed and a coworker designed.
  - Made for full desktop and mobile capabilities, able to create and process orders for premium clothing and accessories.
 
 
-
-## Education
-### Rowan University
-  - Computer Science, Undergraduate
-  - anticipated 2025
-
-## Summary
-Motivated professional interested in applying acquired skills within a challenging environment. Regarded for work ethic, commitment, people skills, and ability to create genuine connections. 
-
+<br/>
 
 ## Skills
-- Communication 
-- Problem Solving  
-- Time Management 
-- Computer Proficiency
-- Leadership
-- Collaboration
-- Conflict Resolution
-- Creative Thinking
 
+ - ReactJS
+ - HTML, CSS, JavaScript
+ - Python
+ - Javascript
+ - Jquery
+ - Bootstrap5
+ - Sass
+ - Agile Development
 
-
+<br/>
 ## Work Experience
 
-#### Hopeworks Camden Non-Profit 
-##### Web Development Intern— Camden, NJ
+#### Hopeworks (Camden, NJ) 
+##### Web Development & Design Internship
 ###### August 2022 - Present
-- Complete training modules such as Photoshop, Front-End Development,
-and WordPress
-- Developed websites with tools such as HTML, CSS, and Java for Small
-scale websites.
-- Participate in professional development training, webinars, coaching,
-and workshops.
-- Create UX/UI design of websites in Figma.
+ - Using HTML, CSS, and Javascript to develop front-end products.
+ - Developing Elementor websites for businesses and companies, occasionally using HTML, CSS, and Javascript for advanced designs.
+ - Using Figma to collaborate with the design team to create visually appealing and user-friendly website layouts and graphics
+ - Contributing UI/UX designs to projects while conducting research on the latest web development and design trends to contribute innovative ideas and suggestions
 
+<br/>
 
-#### Holcomb Bus Services
-##### Bus Aide— Bellmawr, NJ
-###### May 2022 - August 2022
- - Assist passengers, particularly students with disabilities, in boarding and exiting the bus safely.
- - Secure passengers in their seats, ensuring the proper use of safety restraints or equipment as required.
- - Monitor passenger behavior during transit to maintain a safe and orderly environment.
- - Communicate effectively with the bus driver and passengers to ensure a smooth and efficient route.
- - Maintain cleanliness and orderliness on the bus, including assisting with cleaning and disinfecting as needed.
+## Education
 
-
-
-#### Rowan University RAH
-##### RAH Team Member— Glassboro, NJ
-###### August 2021 - November 2021
- - Coordinating with staff and volunteers to ensure that all events run according to schedule
- - Promoting events  to attract attendees
- - Conduct evaluations to gather feedback to access the success of events and identity areas of improvement
-
-
+### Rowan University
+  - Computer Science, Undergraduate                                                               Graduation Date June 2025
+     - 
