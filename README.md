@@ -1,7 +1,7 @@
 # Web Developer
 
 <br/>
-# Summary
+## Summary
 
 Motivated professional Full-Stack Developer interested in applying acquired skills within a challenging environment. Regarded for work ethic, commitment, people skills, and ability to create genuine connections. 
 
