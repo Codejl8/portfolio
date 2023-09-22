@@ -13,7 +13,7 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 <img src="https://live.staticflickr.com/65535/53205802266_93a6c1b66f_z.jpg"/>
 <img src="https://live.staticflickr.com/65535/53206306545_dfcf4467b4_n.jpg"/> 
 <img src="https://live.staticflickr.com/65535/53206182359_0b1a555940_n.jpg"/> 
-<img src="https://live.staticflickr.com/65535/53206306535_76fc6a757b_b.jpg"/> 
+<img src="https://live.staticflickr.com/65535/53206306535_76fc6a757b_n.jpg"/> 
 <img src="https://live.staticflickr.com/65535/53205802296_de3b106d03_n.jpg"/> 
 <img src="https://live.staticflickr.com/65535/53204922587_7ec6d3e6b9_n.jpg"/>
 <img src="https://live.staticflickr.com/65535/53205802241_52f530017e_n.jpg"/>
