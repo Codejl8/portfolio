@@ -68,21 +68,3 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 
 ### Rowan University (Graduation Year: 2025)
   - Proficient in Object Oriented Programming
-
-
-
-```
-<style>
-
-.img-container {
-
-float: right;
-
-margin-left: 10px;
-
-margin-bottom: 10px;
-
-}
-
-</style>
-```
