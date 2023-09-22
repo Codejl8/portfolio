@@ -23,7 +23,7 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 
 [The Exquisite Palate](https://heuristic-shamir.104-192-6-167.plesk.page/index.php/ozzy-restauraunt/)
 
-<img src="https://live.staticflickr.com/65535/53206392534_1601ee805a_n.jpg"/> 
+<img src="https://live.staticflickr.com/65535/53206392534_1601ee805a_n.jpg" link="https://heuristic-shamir.104-192-6-167.plesk.page/index.php/ozzy-restauraunt/"/> 
  - Wordpress, Elementor, and Woocommerce are used to make this site.
  - Made for full desktop and mobile capabilities, able to create and process orders for users, either for themselves or for catering.
  - A collaborative site that I developed and a coworker designed.
