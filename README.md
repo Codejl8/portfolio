@@ -10,10 +10,8 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 
 [Bloom Studios 12](https://bloomstudios12.com/) (In Production)
 
-<img src="https://live.staticflickr.com/65535/53206312443_6333556c99_c.jpg"/>
-<img src="https://live.staticflickr.com/65535/53206410934_3ee3f7c5ae_n.jpg"/>
-
-![(https://live.staticflickr.com/65535/53206410934_3ee3f7c5ae_n.jpg)](https://bloomstudios12.com/)
+<a href="https://bloomstudios12.com/"><img src="https://live.staticflickr.com/65535/53206312443_6333556c99_c.jpg"/></a>
+<a href="https://bloomstudios12.com/"><img src="https://live.staticflickr.com/65535/53206410934_3ee3f7c5ae_n.jpg"/></a>
  
 
  - I designed this website with figma.
@@ -23,7 +21,7 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 
 [The Exquisite Palate](https://heuristic-shamir.104-192-6-167.plesk.page/index.php/ozzy-restauraunt/)
 
-
+<a href="https://heuristic-shamir.104-192-6-167.plesk.page/index.php/ozzy-restauraunt/"><img src="https://live.staticflickr.com/65535/53205131297_bcdca8eb58_n.jpg"></a>
  - Wordpress, Elementor, and Woocommerce are used to make this site.
  - Made for full desktop and mobile capabilities, able to create and process orders for users, either for themselves or for catering.
  - A collaborative site that I developed and a coworker designed.
