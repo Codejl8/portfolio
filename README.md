@@ -13,6 +13,7 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 <img src="https://live.staticflickr.com/65535/53206312443_6333556c99_c.jpg"/>
 <img src="https://live.staticflickr.com/65535/53206410934_3ee3f7c5ae_n.jpg"/>
 
+![https://live.staticflickr.com/65535/53206410934_3ee3f7c5ae_n.jpg](https://bloomstudios12.com/)
  
 
  - I designed this website with figma.
