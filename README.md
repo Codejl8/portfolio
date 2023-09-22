@@ -9,14 +9,15 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 ## Projects
 
 [Bloom Studios 12](https://bloomstudios12.com/) (In Production)
+
+<img src="Home_Joeseph_BloomStudios121.html" alt="Website Title">
+
  - I designed this website with figma.
  - A E Commerce and appointment scheduling website for a company that sells Web Design and Social Media Management services.
  - This Website is made (and maintained) with Wordpress, Elementor, CMP, OptinMonster, Events Calendar, Woocomerse, WPForms. 
  - Also for both Desktop and Mobile Functionality.
 
 [The Exquisite Palate](https://heuristic-shamir.104-192-6-167.plesk.page/index.php/ozzy-restauraunt/)
-<img src="https://drive.google.com/file/d/1VqVpJNLj0uJ7eVOOC6cP5nz4IAqYsCw6/view?usp=drive_link"
-     style="float: left; margin-right: 10px;" />
  - Wordpress, Elementor, and Woocommerce are used to make this site.
  - Made for full desktop and mobile capabilities, able to create and process orders for users, either for themselves or for catering.
  - A collaborative site that I developed and a coworker designed.
