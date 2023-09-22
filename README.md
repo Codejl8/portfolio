@@ -71,7 +71,7 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 
 
 
-'''
+```
 <style>
 
 .img-container {
@@ -85,4 +85,4 @@ margin-bottom: 10px;
 }
 
 </style>
-'''
+```
