@@ -10,28 +10,24 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 
 [Bloom Studios 12](https://bloomstudios12.com/) (In Production)
 
-<img src="https://live.staticflickr.com/65535/53205802266_93a6c1b66f_z.jpg"/>
-<img src="https://live.staticflickr.com/65535/53206306545_dfcf4467b4_n.jpg"/> 
-<img src="https://live.staticflickr.com/65535/53206182359_0b1a555940_n.jpg"/> 
-<img src="https://live.staticflickr.com/65535/53206306535_76fc6a757b_n.jpg"/> 
-<img src="https://live.staticflickr.com/65535/53205802296_de3b106d03_n.jpg"/> 
-<img src="https://live.staticflickr.com/65535/53204922587_7ec6d3e6b9_n.jpg"/>
-<img src="https://live.staticflickr.com/65535/53205802241_52f530017e_n.jpg"/>
-<img src="https://live.staticflickr.com/65535/53206306510_ddef13284e_n.jpg"/>
-<img src="https://live.staticflickr.com/65535/53206182319_d4bc2c99b7_n.jpg"/>
-
+<img src="https://live.staticflickr.com/65535/53206392514_3ce0554cae_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53206312443_6333556c99_n.jpg"/> 
  - I designed this website with figma.
  - A E Commerce and appointment scheduling website for a company that sells Web Design and Social Media Management services.
  - This Website is made (and maintained) with Wordpress, Elementor, CMP, OptinMonster, Events Calendar, Woocomerse, WPForms. 
  - Also for both Desktop and Mobile Functionality.
 
 [The Exquisite Palate](https://heuristic-shamir.104-192-6-167.plesk.page/index.php/ozzy-restauraunt/)
+
+<img src="https://live.staticflickr.com/65535/53206392534_1601ee805a_n.jpg"/> 
  - Wordpress, Elementor, and Woocommerce are used to make this site.
  - Made for full desktop and mobile capabilities, able to create and process orders for users, either for themselves or for catering.
  - A collaborative site that I developed and a coworker designed.
 
 
 [Dapper Denim](https://nice-visvesvaraya.104-192-6-167.plesk.page/)
+
+<img src="https://live.staticflickr.com/65535/53205131297_bcdca8eb58_n.jpg"/> 
  - Wordpress, Elementor, and Woocommerce used to make this site.
  - A collaborative site that I developed and a coworker designed.
  - Made for full desktop and mobile capabilities, able to create and process orders for premium clothing and accessories.
