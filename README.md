@@ -10,7 +10,7 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 
 [Bloom Studios 12](https://bloomstudios12.com/) (In Production)
 
-<img src="Home_Joeseph_BloomStudios121.html" alt="Website Title">
+<img src="file:///C:/Users/Hopeworks/Downloads/Home%20(Joeseph)%20-%20Bloom%20Studios%2012%206(1)/Home_Joeseph_BloomStudios126_1_.html" alt="Website Title">
 
  - I designed this website with figma.
  - A E Commerce and appointment scheduling website for a company that sells Web Design and Social Media Management services.
