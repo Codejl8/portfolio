@@ -10,7 +10,7 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 
 [Bloom Studios 12](https://bloomstudios12.com/) (In Production)
 
-<img data-enlargable width="100"  src="https://live.staticflickr.com/65535/53206535440_5c6379f11c_n.jpg" />
+<img data-enlargable width="100"  src="https://live.staticflickr.com/65535/53206410934_3ee3f7c5ae_c.jpg" />
 
 <img src="https://live.staticflickr.com/65535/53206392514_3ce0554cae_n.jpg"/>
 <img src="https://live.staticflickr.com/65535/53206312443_6333556c99_n.jpg"/> 
