@@ -1,19 +1,4 @@
-<!DOCTYPE html>
 # Web Developer
-
-<style>
-
-.ic {
-
-float: right;
-
-margin-left: 10px;
-
-margin-bottom: 10px;
-
-}
-
-</style>
 
 <br/>
 ## Summary
