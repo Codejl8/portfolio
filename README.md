@@ -71,4 +71,18 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 
 
 
+'''
+<style>
 
+.img-container {
+
+float: right;
+
+margin-left: 10px;
+
+margin-bottom: 10px;
+
+}
+
+</style>
+'''
