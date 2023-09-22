@@ -11,6 +11,14 @@ Motivated professional Full-Stack Developer interested in applying acquired skil
 [Bloom Studios 12](https://bloomstudios12.com/) (In Production)
 
 <img src="https://live.staticflickr.com/65535/53205802266_93a6c1b66f_z.jpg"/>
+<img src="https://live.staticflickr.com/65535/53206306545_dfcf4467b4_n.jpg"/> 
+<img src="https://live.staticflickr.com/65535/53206182359_0b1a555940_n.jpg"/> 
+<img src="https://live.staticflickr.com/65535/53206306535_76fc6a757b_b.jpg"/> 
+<img src="https://live.staticflickr.com/65535/53205802296_de3b106d03_n.jpg"/> 
+<img src="https://live.staticflickr.com/65535/53204922587_7ec6d3e6b9_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53205802241_52f530017e_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53206306510_ddef13284e_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53206182319_d4bc2c99b7_n.jpg"/>
 
  - I designed this website with figma.
  - A E Commerce and appointment scheduling website for a company that sells Web Design and Social Media Management services.
